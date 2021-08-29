@@ -1,3 +1,11 @@
+[Placeholder Place Image](https://www.foodserviceandhospitality.com/wp-content/uploads/2016/09/Restaurant-Placeholder-001.jpg)
+
+[Weather Icon](http://openweathermap.org/img/w/${data.weather[0].icon}.png)
+
+Places Script
+
+<script src="https://maps.googleapis.com/maps/api/js?v=3.exp&libraries=geometry,drawing,places&key=your key here"></script>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
